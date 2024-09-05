@@ -1,8 +1,8 @@
-# Résumé des Concepts JavaScript
+# Résumé des Concepts JavaScript🟨
 
-Ce dépôt présente des exemples de code JavaScript couvrant diverses notions essentielles. Voici un aperçu des concepts abordés :
+📜Ce dépôt présente des exemples de code JavaScript couvrant diverses notions essentielles. Voici un aperçu des concepts abordés :
 
-## Table des Matières
+## Table des Matières 💻
 
 1. [Création et Manipulation de Tableaux](#création-et-manipulation-de-tableaux)
 2. [Manipulation des Données](#manipulation-des-données)
@@ -31,6 +31,6 @@ Ce dépôt présente des exemples de code JavaScript couvrant diverses notions e
 - **Boucles** : Utilisation de boucles pour parcourir les éléments d'un tableau.
 - **Ajout et Suppression d'Éléments** : Manipulation des éléments d'un tableau en ajoutant ou supprimant des éléments.
 
----
+⚙️⚙️⚙️
 
 N'hésitez pas à explorer les exemples de code fournis dans les fichiers pour mieux comprendre ces concepts. Pour plus de détails, consultez les commentaires dans le code.
