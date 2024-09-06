@@ -33,7 +33,7 @@ for (let i = 0; i < taille2; i++) {
   lettres.push(alphabet.charAt(Math.floor(Math.random() * alphabet.length)));
 }
 
-// Fusionner les deux tableaux dans l'ordre alterné
+
 const fusion = [];
 const longueurMax = Math.max(taille1, taille2);
 

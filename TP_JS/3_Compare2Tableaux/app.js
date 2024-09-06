@@ -24,8 +24,6 @@
 
 let compteur = 0;
 let tableauEgaux = false;
-let tableau1 = [];
-let tableau2 = [];
 let i;
 
 // Boucle pour comparer les tableaux jusqu'à ce qu'ils soient identiques
